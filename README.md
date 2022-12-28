@@ -2,6 +2,7 @@
 This repository consists code for the demo that shows how to add a shuffled virtual keyboard for password entry (digits)
 
 //App OnStart Code
+
 ClearCollect(
     ShuffledItems,
     [
